@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.35.5](https://github.com/mvanhorn/cli-printing-press/compare/v4.35.4...v4.35.5) (2026-11-10)
+
+
+### Bug Fixes
+
+* **verify-skill:** sync canonical script with library nested-helper walk ([#5377](https://github.com/mvanhorn/cli-printing-press/issues/5377)) ([8e70cce](https://github.com/mvanhorn/cli-printing-press/commit/8e70ccec8180fb8df72ab6e5f2e7072f37f064dc))
+
 ## [4.35.4](https://github.com/mvanhorn/cli-printing-press/compare/v4.35.3...v4.35.4) (2026-11-08)
 
 
